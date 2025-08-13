@@ -511,11 +511,11 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/mike-enger", "_blank");
         },
       },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
+        id: 'social-researchgate',
+        title: 'ResearchGate',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=yNI_DaMAAAAJ&hl=en", "_blank");
+          window.open("https://www.researchgate.net/profile/Mike-Enger-2/", "_blank");
         },
       },{
         id: 'social-strava',
