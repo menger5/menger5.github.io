@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://menger5.github.io/al-folio/sitemap.xml
