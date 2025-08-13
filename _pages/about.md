@@ -3,8 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-<p>PhD Student, Vanderbilt University</p>
-<p>Research Informaticist, RTI International</p>
+  <p>PhD Student, Vanderbilt University</p>
+  <p>Research Informaticist, RTI International</p>
 
 profile:
   align: right
