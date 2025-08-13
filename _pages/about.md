@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
+subtitle: >
 <p>PhD Student, Vanderbilt University</p>
 <p>Research Informaticist, RTI International</p>
 
