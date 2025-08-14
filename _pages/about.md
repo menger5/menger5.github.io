@@ -28,4 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here.
+I’m Mike Enger, a PhD student in the Department of Biomedical Informatics at Vanderbilt University and a Research Informaticist at RTI International. My work sits at the intersection of clinical research, data science, and health policy. Over the past 5 years, I’ve worked within large, multi-site research consortia funded by the NIH and CDC, led data coordinating efforts, and explored ways to make routinely collected health information more accessible for research purposes.
+
+Outside of work and school, I’m an exceptionally average runner (find me on Strava via the footer), a devoted nature enthusiast, and a regular on most of the sand volleyball courts around Nashville.
