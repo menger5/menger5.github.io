@@ -428,8 +428,8 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-",
-          title: '',
+      },{id: "books-the-alignment-problem-machine-learning-and-human-values",
+          title: 'The Alignment Problem: Machine Learning and Human Values',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/alignment_problem/";
