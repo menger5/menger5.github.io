@@ -1,6 +1,6 @@
 ---
 layout: book-review
-title: The Alignment Problem: Machine Learning and Human Values
+title: "The Alignment Problem: Machine Learning and Human Values"
 author: Brian Christian
 cover: assets/img/book_covers/alignment_problem.jpg
 olid: # use Open Library ID to fetch cover (if no `cover` is provided)
